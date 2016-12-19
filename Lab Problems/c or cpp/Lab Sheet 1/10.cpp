@@ -57,7 +57,7 @@ int main(){
 		}
 
 	
-	// Printing the RESULT
+	// Printing the RESULT backwards
 	for(int i = limit;i >= 0;i-- ){
 		cout << store[i];
 	}
